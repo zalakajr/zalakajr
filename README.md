@@ -66,7 +66,7 @@
 
 ### Check out my YouTube Shorts!
 
-<div align="center">
+<div align="left">
   <a href="https://www.youtube.com/watch?v=xpWJIdFdQz8">
     <img src="https://img.youtube.com/vi/xpWJIdFdQz8/0.jpg" width="320" alt="Video 1" />
   </a>
