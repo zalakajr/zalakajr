@@ -61,6 +61,13 @@
 
 ###
 
+### Check out my YouTube Shorts!
+
+[![Video 1](https://img.youtube.com/vi/xpWJIdFdQz8/0.jpg)](https://www.youtube.com/watch?v=xpWJIdFdQz8)
+[![Video 2](https://img.youtube.com/vi/wCb1PMz1CQI/0.jpg)](https://www.youtube.com/watch?v=wCb1PMz1CQI)
+
+###
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/zalakajr/TAMBU-LIH-JUNIOR/output/snake.svg" alt="Snake animation" />
