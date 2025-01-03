@@ -66,7 +66,7 @@
 
 ### Check out my YouTube Shorts!
 
-<div align="center" style="display: flex; justify-content: center; gap: 30px; margin-top: 40px;">
+<div align="center">
   <a href="https://www.youtube.com/watch?v=xpWJIdFdQz8">
     <img src="https://img.youtube.com/vi/xpWJIdFdQz8/0.jpg" width="320" alt="Video 1" />
   </a>
