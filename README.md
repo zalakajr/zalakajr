@@ -70,9 +70,7 @@
   <a href="https://www.youtube.com/watch?v=xpWJIdFdQz8">
     <img src="https://img.youtube.com/vi/xpWJIdFdQz8/0.jpg" width="320" alt="Video 1" />
   </a>
-  <a href="https://www.youtube.com/watch?v=wCb1PMz1CQI">
-    <img src="https://img.youtube.com/vi/wCb1PMz1CQI/0.jpg" width="320" alt="Video 2" />
-  </a>
+
 </div>
 
 
