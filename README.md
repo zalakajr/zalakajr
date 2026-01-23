@@ -17,15 +17,12 @@
 
 ### ⚙️ GitHub Stats & Activity  
 <div align="center">
-  <!-- Main stats card (served from your Vercel deployment) -->
-  <img src="https://github-readme-stats-xi-lilac-66.vercel.app/api?username=zalakajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=1800" height="170" alt="GitHub stats for zalakajr" />
-  <!-- Streak card (demolab fork is more reliable than the old herokuapp) -->
-  <img src="https://streak-stats.demolab.com?user=zalakajr&theme=tokyonight&hide_border=true" height="170" alt="GitHub streak stats for zalakajr" />
+  <img src="https://github-readme-stats.vercel.app/api?username=zalakajr&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" height="170" />
+  <img src="https://streak-stats.demolab.com?user=zalakajr&theme=tokyonight&hide_border=true" height="170" />
 </div>
 
 <div align="center">
-  <!-- Top languages -->
-  <img src="https://github-readme-stats-xi-lilac-66.vercel.app/api/top-langs/?username=zalakajr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" alt="Top languages for zalakajr" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zalakajr&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" height="150" />
 </div>
 
 ---
